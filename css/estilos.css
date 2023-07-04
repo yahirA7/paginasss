@@ -1,0 +1,545 @@
+body{
+   background=black;
+   font-color="black";
+   }
+ 
+
+/*INCIO DE SESION*/
+
+.nombre{
+      position:relative;
+      background:;
+      width:120px;
+      height:25px;
+      font-size:12px;
+      top:200px;
+      left:400px;
+    }
+
+.contraseña{
+   position:relative;
+   background:;
+   width:120px;
+   height:25px;
+   font-size:12px;
+   top:210px;
+   left:400px;
+    }
+
+.texto1{
+   position:relative;
+   background:;
+   width:120px;
+   height:25px;
+   font-size:12px;
+   top:170px;
+   left:535px;
+    }
+ 
+.texto2{
+   position:relative;
+   background:;
+   width:120px;
+   height:25px;
+   font-size:12px;
+   top:-80px;
+   left:-1px;
+    }
+
+.inicio{
+  position:relative;
+   width:120px;
+   height:25px;
+   font-size:12px;
+   top:-20px;
+   left:500px;
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:90px;
+   height:20px;
+   }
+/*PAGINA PRINCIPAL*/
+
+    
+.iniciopp{
+   position:relative;
+   left:1050px;
+   top:-125px;
+   font-size:25;
+
+    background-color:#8F8F8F;
+   border-radius:5px;
+   width:145px;
+   height:28px;
+   }
+
+.titulo{
+   left:100;
+   background:#4D5154;
+   font-size:20px;
+      }
+  
+
+.catalogo{
+    position:relative;
+    left:450px;
+    top:-55;
+    font-size:15px;
+
+   background-color:#8F8F8F;
+   border-radius: 5px;
+   width:215px;
+   height:25px;
+   }
+
+.registropp{
+    position:relative;
+    left:1200px;
+    top:-154px;
+    font-size:25px;
+   
+    
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:125px;
+   height:28px;
+   
+    }
+
+.noticias{
+    position:relative;
+    left:700px;
+    top:-100px;
+    font-size:15px;
+   
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:115px;
+   height:25px;
+    }
+
+.foto1{
+    position:relative;
+    top:-130px;
+}
+    
+
+
+ /*CSS REGISTRO*/
+  
+.aceptar{
+  position:relative;
+   width:120px;
+   height:25px;
+   font-size:12px;
+   top:-180px;
+   left:600px;
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:100px;
+   height:20px;
+   }
+
+.segundoN{
+    position:relative;
+    left:700px;
+    top:-37px;
+    }
+
+.primerN{
+    position:relative;
+    left:px;
+    }
+
+.apellidoP{
+    position:relative;
+    left:px;
+    top:-15px;
+    }
+
+.apellidoM{
+    position:relative;
+    left:700px;
+    top:-35px;
+    }
+
+.fechaN{
+   position:relative;
+   top:-20px;
+   left:0px;
+   }
+
+.rfc{
+   position:relative;
+   top:-54px;
+   left:350px;
+   }
+
+.numeroT{
+   position:relative;
+   top:-75px;
+   left:700px;
+   }
+
+.domicilio{
+    position:relative;
+    top:-60px;
+    }
+
+.cp{
+   position:relative;
+   top:-95px;
+   left:700px;
+   }
+
+
+.colonia{
+   position:relative;
+   top:-90px;
+   }
+
+.municipio{
+    position:relative;
+    top:-122px;
+    left:700px;
+    }
+
+.estado{
+    position:relative;
+    top:-115px;
+    }
+
+.ciudad{
+    position:relative;
+    top:-150px;
+    left:700px;
+    }
+
+
+.nacio{
+    position:relative;
+    top:-135px;
+   }
+
+.genero{
+    position:relative;
+    left:700px;
+    top:-170px;
+    }
+
+
+.estadoC{
+   position:relative;
+   top:-155px;
+   }
+
+.profesion{
+   position:relative;
+   top:-190px;
+   left:700px;
+   }
+
+
+/*CATALOGO*/
+ 
+
+
+.prueba{
+    position:relative;
+    width:600px;
+    height:600px;
+    left:100px;
+    
+   }
+
+.a1{
+    position:relative;
+   left:700px;
+   top:-450px;
+   }
+
+.f2{
+  position:relative;
+  width:900px;
+  height:500px;
+  left:100px;
+  top:-200px;
+  }
+
+.a2{
+  position:relative;
+  left:250px;
+  top:-450px;
+  }
+
+.f3{
+  position:relative;
+  width:600px;
+  height:600px;
+  left:100px;
+  }
+
+
+.a3{
+  position:relative;
+  left:700px;
+  top:-450px;
+  }
+ 
+.f4{
+  position:relative;
+  width:600px;
+  heigth:600px;
+  top:-150px;
+  left:100px;
+  }
+
+.a4{
+  position:relative;
+  left:700px;
+  top:-400px;
+  }
+
+.f5{
+  position:relative;
+  width:600px;
+  height:600px;
+  left:100px;
+  top:-100px;
+  }
+
+
+.a5{
+  position:relative;
+  left:700px;
+  top:-600px;
+  }
+
+.f6{
+  position:relative;
+  width:450px;
+  heigth:800px;
+  left:100px;
+  top:-300px;
+   }
+
+.a6{
+  position:relative;
+  left:250px;
+  top:-250px;
+  }
+
+
+.f7{
+  position:relative;
+  width:600px;
+  height:600px;
+  left:100px;
+  top:-100px;
+  }
+
+.a7{
+  position:relative;
+  left:700px;
+  top:-600px;
+   }
+
+.f8{
+  position:relative;
+  width:600px;
+  height:600px;
+  left:100px;
+  top:-300px;
+  }
+
+.a8{
+  position:relative;
+  left:700px;
+  top:-750px;
+  }
+ 
+.f9{
+  position:relative;
+  width:150px;
+  heigth:1000px;
+  left:100px;
+  top:-400px;
+  }
+
+.a9{
+  position:relative;
+  left:500px;
+  top:-300px;
+  }
+
+.f10{
+  position:relative;
+  width:600px;
+  height:600px;
+  left:100px;
+  top:-200px;
+  }
+ 
+.a10{
+  position:relative;
+  left:700px;
+  top:-650px;
+  }
+
+.contactar{
+   position:relative;
+   top:-570;
+   left:1300;
+      
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:155px;
+   height:28px;
+   }
+  
+.contactar2{
+   position:relative;
+   top:-570;
+   left:1300;
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:155px;
+   height:28px;
+   }
+
+.contactar3{
+   position:relative;
+   top:-570;
+   left:1300;
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:155px;
+   height:28px;
+   }
+
+.contactar4{
+   position:relative;
+   top:-500;
+   left:1300;
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:155px;
+   height:28px;
+   }
+.contactar5{
+   position:relative;
+   top:-720;
+   left:1300;
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:155px;
+   height:28px;
+   }
+.contactar6{
+   position:relative;
+   top:-450;
+   left:1300;
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:155px;
+   height:28px;
+   }
+.contactar7{
+   position:relative;
+   top:-770;
+   left:1300;
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:155px;
+   height:28px;
+   }
+.contactar8{
+   position:relative;
+   top:-870;
+   left:1300;
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:155px;
+   height:28px;
+   }
+.contactar9{
+   position:relative;
+   top:-470;
+   left:1300;
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:155px;
+   height:28px;
+   }
+.contactar10{
+   position:relative;
+   top:-770;
+   left:1300;
+   background-color:#8F8F8F;
+   border-radius:5px;
+   width:155px;
+   height:28px;
+   }
+
+
+/*botones*/
+
+.catalogo:hover {
+background:#C5C5C5;
+}
+
+.noticias:hover {
+background:#C5C5C5;
+}
+
+.registropp:hover {
+background:#C5C5C5;
+}
+
+.iniciopp:hover {
+background:#C5C5C5;
+}
+
+.contactar:hover{
+background:#C5C5C5;
+}
+
+.contactar2:hover{
+background:#C5C5C5;
+}
+
+.contactar3:hover{
+background:#C5C5C5;
+}
+
+.contactar4:hover{
+background:#C5C5C5;
+}
+.contactar5:hover{
+background:#C5C5C5;
+}
+.contactar6:hover{
+background:#C5C5C5;
+}
+.contactar7:hover{
+background:#C5C5C5;
+}
+.contactar8:hover{
+background:#C5C5C5;
+}
+.contactar9:hover{
+background:#C5C5C5;
+}
+.contactar10:hover{
+background:#C5C5C5;
+}
+
+.inicio:hover{
+background:#C5C5C5;
+}
+
+.aceptar:hover{
+background:#C5C5C5;
+}
+ 
+ 
